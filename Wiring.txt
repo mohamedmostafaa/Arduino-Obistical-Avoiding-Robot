@@ -1,0 +1,31 @@
+L298n motor driver:
+
+In1 ? arduino digital pin 7
+
+In2 ? arduino digital pin 6
+
+In3 ? arduino digital pin 5
+
+In4 ? arduino digital pin 4
+
+OUT1 ? Motor 1
+
+OUT2 ? Motor 1
+
+OUT3 ? Motor 2
+
+OUT4 ? Motor 2
+
+HC-SR04 Ultrasonic Sonar sensor:
+
+Trig ? arduino analog pin 1
+
+Echo ? arduino analog pin 2
+
+TowerPro micro servo 9g:
+
+orange wire ? arduino digital pin 10
+
+red wire ? breadboard +5V
+
+brown wire ? breadboard GND
